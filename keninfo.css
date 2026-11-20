@@ -14,7 +14,7 @@ body {
             rgba(0,0,0,0.15),
             rgba(0,0,0,0.15)
         ),
-        url("/cebc08cb-20df-4e43-abb7-91aea6dd5520.jpeg");
+        url("cebc08cb-20df-4e43-abb7-91aea6dd5520.jpeg");
 
     background-size: 100% 100%;
     background-position: center;
@@ -29,16 +29,6 @@ body {
     max-width: 1000px;
     margin: 50px auto;
     padding: 20px;
-  //  background:
-       // linear-gradient(
-            rgba(0,0,0,0.15),
-            rgba(0,0,0,0.15)
-       // ),
-       // url("/cebc08cb-20df-4e43-abb7-91aea6dd5520.jpeg");
-      //  background-size: cover;
-//        background-position: center;
- //   background-repeat: no-repeat;
- //   background-attachment: fixed;
 }
 
 
